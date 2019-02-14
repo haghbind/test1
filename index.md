@@ -9,9 +9,9 @@
 <p style="color:violet">I am Dina Haghbin</p>
 <h1>
 <a href="http://www.haghbinh.ir/"> mmy father link</a>
-
-<a href="https://haghbinh.github.io/test1/"> آدرس صفحه من</a>
 </h1>
+ <a style="color:violet" href="https://haghbinh.github.io/test1/"> آدرس صفحه من</a>
+
 <img src="A2.jpg" width="500" height="400" class="inline"/>
 </body>
 </html>
