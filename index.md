@@ -11,7 +11,7 @@
 <h1>
 <a href="http://www.haghbinh.ir/"> mmy father link</a>
 </h1>
-<img src="https://github.com/haghbinh/test1/raw/master/A2.jpg"alt="Girl with a red jacket" width="500" height="400">
+<img src="A2.jpg"alt="Girl with a red jacket" width="500" height="400" class="inline"/>
  <a href="https://haghbinh.github.io/test1/"> آدرس صفحه من</a>
 </body>
 </html>
