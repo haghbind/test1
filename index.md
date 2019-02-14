@@ -8,7 +8,7 @@
 <h2>My last name is haghbin.</h2>
 <p style="color:violet">I am Dina Haghbin</p>
 <h1>
-<a href="http://www.haghbinh.ir/"> mmy father link</a>
+<a href="http://www.haghbinh.ir/"> My father link</a>
 </h1>
 <h1>
  <a style="color:violet" href="https://haghbinh.github.io/test1/"> آدرس صفحه من</a>
