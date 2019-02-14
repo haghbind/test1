@@ -10,8 +10,9 @@
 <h1>
 <a href="http://www.haghbinh.ir/"> mmy father link</a>
 </h1>
+<h1>
  <a style="color:violet" href="https://haghbinh.github.io/test1/"> آدرس صفحه من</a>
-
-<img src="A2.jpg" width="500" height="400" class="inline"/>
+</h1>
+<img src="A2.jpg" width="300" height="200" class="inline"/>
 </body>
 </html>
